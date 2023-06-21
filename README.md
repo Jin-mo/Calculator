@@ -1,2 +1,2 @@
-# Calculator
-Calculator with tkinter
+# Calculator Python Project with Tkinter GUI
+
